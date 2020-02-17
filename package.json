@@ -136,6 +136,7 @@
     "lodash-es": "^4.17.11",
     "memoize-one": "^4.0.3",
     "prop-types": "^15.6.2",
+    "react-app-polyfill": "^1.0.6",
     "react-overlays": "^2.0.0-0",
     "uncontrollable": "^7.0.0"
   },
