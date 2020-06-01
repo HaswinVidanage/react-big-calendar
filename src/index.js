@@ -1,3 +1,5 @@
+import 'react-app-polyfill/ie9'
+import 'react-app-polyfill/stable'
 import EventWrapper from './EventWrapper'
 import BackgroundWrapper from './BackgroundWrapper'
 
